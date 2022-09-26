@@ -21,3 +21,4 @@ switch ($_GET['op']) {
 }
 
 echo "resutlado: ", $resul;
+?>
